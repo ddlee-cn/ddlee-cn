@@ -5,4 +5,4 @@
 
 Hi there, I am a Research Scientist with Sony Research. I have been dedicating myself to improve human visual experience through highly efficient, accurate, and controllable algorithms.
 
-Please learn more about my works on multimedia technology, computational photography, and AI-generated content at my [Homepage](https://ddlee-cn.github.io/).
+Please learn more about my research works at my [Homepage](https://ddlee-cn.github.io/).
